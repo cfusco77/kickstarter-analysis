@@ -12,6 +12,6 @@ performing analysis on kickstarter data to uncover trends
 
 [Cookies?!](https://www.halfbakedharvest.com/brown-butter-malted-chocolate-chunk-cookies/)
 ---
-![brownbutterwins](https://imgur.com/dUqy1Jt) 
+![brownbutterwins](https://i.imgur.com/dUqy1Jt.jpg) 
 
 thank you very much for coming to my talk 
