@@ -1,7 +1,17 @@
 # An Analysis of Kickstarter Campaigns 
 performing analysis on kickstarter data to uncover trends 
-- testing to see how bullets are created 
-- bullets?
-- more bullets?
+## subheader
+### smaller subheader
+- this
+- this
+- this
 ---
+1. this
+2. this
+3. this
+
+[Cookies?!](https://www.halfbakedharvest.com/brown-butter-malted-chocolate-chunk-cookies/)
+---
+![brownbutterwins](https://imgur.com/dUqy1Jt) 
+
 thank you very much for coming to my talk 
