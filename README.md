@@ -30,7 +30,7 @@ Of the 4113 crowdfunding campaigns 1393 are categorized under the Parent Categor
 
 ![Theater_Outcomes_vs_Launch](https://github.com/cfusco77/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
-I want to point out a limitation of this table: Here I have shown the count of each type of outcome throughout the year. Perhaps instead we should plot the outcome rates which would control for the number of campaigns launched each month. I have performed this secondary analysis to confrim that success rate is in fact the highest the month's of May and June. An additional finding, which may be harder to ascertain from the table, is that May and June also have the lowest failure rates. 
+I want to point out a limitation of this table: Here I have shown the count of each type of outcome throughout the year. Perhaps instead we should plot the outcome rates which would control for the number of campaigns launched each month. I have performed this secondary analysis to confirm that success rate is in fact the highest the month's of May and June. An additional finding, which may be harder to ascertain from the table, is that May and June also have the lowest failure rates. 
 
 ---
 ### Analysis of Outcomes Based on Goals
