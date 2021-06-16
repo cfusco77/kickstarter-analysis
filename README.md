@@ -14,7 +14,6 @@ performing analysis on kickstarter data to uncover trends
 ---
 ![brownbutterwins](https://i.imgur.com/dUqy1Jt.jpg) 
 ---
-![Parent_Category_Outcomes](https://github.com/cfusco77/kickstarter-analysis/blob/main/Parent%20Category%20Putcomes.png) 
 
 thank you very much for coming to my talk 
 
@@ -33,6 +32,7 @@ The purpose of this invetigation is to provide our client, Louise, a visual anal
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes_vs_Goals](https://github.com/cfusco77/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png) 
 
 ### Challenges and Difficulties Encountered
 
