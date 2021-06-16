@@ -2,9 +2,6 @@
 performing analysis on kickstarter data to uncover trends 
 ## subheader
 ### smaller subheader
-- this
-- this
-- this
 ---
 1. this
 2. this
@@ -30,6 +27,7 @@ The purpose of this invetigation is to provide our client, Louise, a visual anal
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![Theater_Outcomes_vs_Launch](https://github.com/cfusco77/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](https://github.com/cfusco77/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png) 
