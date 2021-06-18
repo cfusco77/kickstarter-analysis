@@ -24,7 +24,7 @@ I want to point out a limitation of this table: Here I have shown the count of e
 ### Analysis of Outcomes Based on Goals
 The table, pictured below, illustrates the the effect campaign goal amount has on campaign outcome. I have chosen to plot percent outcomes. There were no canceled fundraising campaigns for plays and so the two possible outcomes are success or failure. With only two possible outcomes the lines will be mirror images of one another which we see here. If we were to draw a trend line we would find that generally the larger the campaign goal the greater chance of failure. However campaigns with goals between $25K - $40k are not consistent with that finding. 
 
-![Outcomes_vs_Goals](https://github.com/cfusco77/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png) 
+![Outcomes_vs_Goals](https://github.com/cfusco77/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png) 
 
 When Louise came to us, she had a $10,000 goal in mind, based on my analysis I would predict a 54% chance of success based on other plays with similiar sized goals.
 
