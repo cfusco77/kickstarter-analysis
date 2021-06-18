@@ -16,13 +16,13 @@ Having sorted the data my initial observations are that not all months have the 
 
 The table, pictured below, illustrates the count of campaign outcomes by month. It appears May is an exceptionally good time to launch a campaign, followed by June and then July. 
 
-![Theater_Outcomes_vs_Launch](https://github.com/cfusco77/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/cfusco77/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 I want to point out a limitation of this table: Here I have shown the count of each type of outcome throughout the year. Perhaps instead we should plot the outcome rates which would control for the number of campaigns launched each month. I have performed this secondary analysis to confirm that success rate is in fact the highest in May and June. An additional finding, which may be harder to ascertain from the table, is that May and June also have the lowest failure rates. 
 
 ---
 ### Analysis of Outcomes Based on Goals
-The table, pictured below, illustrates the the effect campaign goal amount has on campaign outcome. I have chosen to plot percent outcomes. There were no canceled fundraising campaigns for plays and so the two possible outcomes are success or failure. With only two possible outcomes the lines will be mirror images of one another which we see here. If we were to draw a trend line we would find that generally the larger the campaign goal the greater chance of failure. However campaigns with goals between $25K - $40k are not consistent with that finding. 
+The table, pictured below, illustrates the effect campaign goal amount has on campaign outcome specifically for campigns with the subcategory: Plays. I have chosen to plot percent outcomes. There were no canceled fundraising campaigns for plays and so the two possible outcomes are success or failure. With only two possible outcomes the lines will be mirror images of one another which we see here. If we were to draw a trend line we would find that generally the larger the campaign goal the greater chance of failure. However campaigns with goals between $25K - $40k are not consistent with that finding. 
 
 ![Outcomes_vs_Goals](https://github.com/cfusco77/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png) 
 
