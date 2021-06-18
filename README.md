@@ -12,7 +12,7 @@ The purpose of this invetigation is to provide our client, Louise, a visual anal
 ### Analysis of Outcomes Based on Launch Date
 Of the 4113 crowdfunding campaigns 1369 are categorized under the Parent Category: Theater. I have filted the dataset to include only Theater campaigns in the following analysis.
 
-Having sorted the data my initial observations are that not all months have the same number of campaigns. May and June have the highest count of total campaigns. The number of successful campaigns in a given month ranges from [37, 111] while the number of failed camapigns has a much smaller spread, [31, 52.] 
+Having sorted the data and grouped by month, my initial observations are that not all months have the same number of campaigns. May and June have the highest count of total campaigns. The number of successful campaigns in a given month ranges from [37, 111] while the number of failed camapigns has a much smaller spread, [31, 52.] 
 
 The table, pictured below, illustrates the count of campaign outcomes by month. It appears May is an exceptionally good time to launch a campaign, followed by June and then July. 
 
@@ -29,8 +29,8 @@ The table, pictured below, illustrates the effect campaign goal amount has on ca
 When Louise came to us, she had a $10,000 goal in mind, based on my analysis I would predict a 54% chance of success based on other plays with similiar sized goals.
 
 ### Limitations of the Dataset
-The dataset only holds data up to 2017, ideally we would have data up to date to feel more confident in our analysis and predictions of future outcomes.  
+The dataset only holds data up to 2017, ideally we would have data up to date, 2021, to feel more confident in our analysis and predictions of future outcomes.  
 
-The outcome of the play is a categorical attribute determined based on whether the goal was met but does not take into condisertation how far off failed campaigns were from their goal. This might be an interesting addtional measure for further analysis. 
+The outcome of the play is a categorical attribute determined based on whether the goal was met but does not take into condsideration how far off failed campaigns were from their goal. This might be an interesting addtional measure for further analysis. 
 
 
